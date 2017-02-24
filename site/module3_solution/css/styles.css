@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Helvetica;
+}
+
+/* HEADER */
+
+#food-navbar {
+	background-color: #d9edf7; 
+}
+
+/* Main Content */
+#main-content h1 {
+	margin-top: 20px;
+}
+
+section div {
+	background-color: #ABA795;
+}
